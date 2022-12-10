@@ -29,7 +29,7 @@ You can use the title of the thread to indicate the subject (tip request) and th
 
 Before posting the thread, please make sure that the tab `Treasury` is selected to indicate the nature of the Discussion.
 
-For reference, you can take a look at [this example tip request](https://hydradx.subsquare.io/post/192).
+For reference, you can take a look at [this example tip request](https://hydradx.subsquare.io/post/3).
 
 <div style={{textAlign: 'center'}}>
   <img alt="login" src={useBaseUrl('/tip-request/post-thread.jpg')} />
